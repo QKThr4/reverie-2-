@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "memory=0": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=1": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=2": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=3": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=4": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=5": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=6": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=7": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=8": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=9": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=10": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=11": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=12": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=13": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=14": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=15": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=16": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=17": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=18": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=19": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=20": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=21": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=22": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=23": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=24": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=25": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=26": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=27": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=28": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=29": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=30": {
+      "model": "liminalreverie:block/memory_fragment"
+    },
+    "memory=31": {
+      "model": "liminalreverie:block/memory_fragment"
+    }
+  }
+}

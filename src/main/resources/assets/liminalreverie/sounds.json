@@ -1,0 +1,188 @@
+{
+  "ambient_lobby": {
+    "sounds": [
+      {
+        "name": "block.beacon.ambient",
+        "type": "event",
+        "volume": 0.9,
+        "pitch": 0.55
+      }
+    ]
+  },
+  "ambient_school": {
+    "sounds": [
+      {
+        "name": "block.conduit.ambient",
+        "type": "event",
+        "volume": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "block.bell.resonate",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 0.5
+      }
+    ]
+  },
+  "ambient_pool": {
+    "sounds": [
+      {
+        "name": "block.pointed_dripstone.drip_water",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.8
+      },
+      {
+        "name": "ambient.underwater.loop",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "ambient_mall": {
+    "sounds": [
+      {
+        "name": "block.note_block.harp",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 0.5
+      },
+      {
+        "name": "block.note_block.harp",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 0.75
+      },
+      {
+        "name": "block.beacon.ambient",
+        "type": "event",
+        "volume": 0.6,
+        "pitch": 0.5
+      }
+    ]
+  },
+  "ambient_fields": {
+    "sounds": [
+      {
+        "name": "item.elytra.flying",
+        "type": "event",
+        "volume": 0.4,
+        "pitch": 0.6
+      },
+      {
+        "name": "entity.bee.loop",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "ambient_hotel": {
+    "sounds": [
+      {
+        "name": "block.beacon.ambient",
+        "type": "event",
+        "volume": 0.9,
+        "pitch": 0.45
+      },
+      {
+        "name": "block.iron_door.close",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 0.6
+      }
+    ]
+  },
+  "ambient_safe": {
+    "sounds": [
+      {
+        "name": "block.campfire.crackle",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "chime": {
+    "sounds": [
+      {
+        "name": "block.note_block.chime",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "wrong": {
+    "sounds": [
+      {
+        "name": "block.note_block.bass",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "solve": {
+    "sounds": [
+      {
+        "name": "block.amethyst_block.resonate",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "bell": {
+    "sounds": [
+      {
+        "name": "block.bell.resonate",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.7
+      }
+    ]
+  },
+  "ding": {
+    "sounds": [
+      {
+        "name": "block.note_block.bell",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "step": {
+    "sounds": [
+      {
+        "name": "block.stone.step",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "laugh": {
+    "sounds": [
+      {
+        "name": "entity.allay.ambient_without_item",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "wind": {
+    "sounds": [
+      {
+        "name": "item.elytra.flying",
+        "type": "event",
+        "volume": 0.9,
+        "pitch": 0.5
+      }
+    ]
+  }
+}
